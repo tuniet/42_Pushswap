@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT THE REVERSE ROTATE MOVEMENT*/
+
 static void	rev_rotate(t_stack **stack)
 {
 	t_stack	*tmp;

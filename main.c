@@ -12,6 +12,7 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS HANDLE THE MAIN LOOP AND THE ORDERING OF THE NUMBERS WITH N F NUMBERS BEING > 5*/
 int	push_all(t_stack **stack_a, t_stack **stack_b, int k)
 {
 	int	i;

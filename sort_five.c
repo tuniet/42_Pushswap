@@ -12,6 +12,7 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT THE ALGORITH TO SORT N > 4 <= 5*/
 void	settarget(t_stack *stack_a, t_stack *stack_b)
 {
 	int	i;

@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT THE PUSH MOVEMENT*/
+
 static void	push(t_stack **src, t_stack **dst)
 {
 	t_stack	*tmp;

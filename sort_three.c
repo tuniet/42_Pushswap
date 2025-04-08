@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT THE ALGORITH TO SORT N > 1 <= 3*/
+
 int	is_sorted(t_stack *stack)
 {
 	while (stack->next != NULL)

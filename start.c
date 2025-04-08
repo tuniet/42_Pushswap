@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT EVERYTHING NECESARRY TO INITIALIZE THE PRGRAM*/
+
 long	input_is_correct(char	*str)
 {
 	int	i;

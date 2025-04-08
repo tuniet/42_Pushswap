@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT THE ROTATE MOVEMENT*/
+
 static void	rotate(t_stack **stack)
 {
 	t_stack	*tmp;

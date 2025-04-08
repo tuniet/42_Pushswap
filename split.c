@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS IMPLEMENT A SPLIT FUNCTION*/
+
 size_t	ft_strlen(const char *s)
 {
 	size_t	i;

@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS HELP FREEING EVERYTHING IN CASE OF ANY ERRORS DURING EXECUTION*/
+
 void	error_exit(t_stack **stack_a, t_stack **stack_b)
 {
 	if (stack_a == NULL || *stack_a != NULL)

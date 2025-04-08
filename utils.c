@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTIONS HELP DURING THE EXECUTION*/
+
 void	free_stack(t_stack **stack)
 {
 	t_stack	*tmp;

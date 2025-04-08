@@ -12,6 +12,8 @@
 
 #include "push_swap.h"
 
+/*THIS FUNCTION IMPLEMENT THE FUNCTIONALITYS OF THE STACK*/
+
 t_stack	*stack_new(int value)
 {
 	t_stack	*new;
